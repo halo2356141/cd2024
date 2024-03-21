@@ -13,20 +13,21 @@
 
 &lt;h1&gt;W3網誌&lt;/h1&gt;
 &lt;p&gt;1.將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
-&lt;p&gt;2.在 Replit 維護分組倉儲&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W1</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T14:00:00+08:00</published><updated>2024-03-21T07:15:03+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;2.在 Replit 維護分組倉儲&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W1</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T14:00:00+08:00</published><updated>2024-03-21T07:32:10+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;h1&gt;W1網誌&lt;/h1&gt;
-&lt;p&gt;1.建個人課程倉儲&lt;/p&gt;
-&lt;p&gt;2.將個人倉儲 import 至 Replit&lt;/p&gt;
-&lt;p&gt;3.設定 Github 帳號的雙重認證&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T14:00:00+08:00</published><updated>2024-03-21T07:15:09+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;h2&gt;1.建個人課程倉儲&lt;/h2&gt;
+&lt;p&gt;登入 github 連結到 https://github.com/mdecycu/cmsimde_site, 利用此倉儲作為 Template, 新增一個名稱為 cd2024 的倉儲, 並且將其 main 分支設為網頁根目錄&lt;/p&gt;
+&lt;h2&gt;2.將個人倉儲 import 至 Replit&lt;/h2&gt;
+&lt;p&gt;從 Replit 帳號下方的 Account, Connected Services(連線服務區) 點選 Connect 後, 讓 Github 授權 Replit, 將在 Replit 中的倉儲改版後, 有權限推回 Github&lt;/p&gt;
+&lt;h2&gt;3.設定 Github 帳號的雙重認證&lt;/h2&gt;
+&lt;p&gt;手機必須先安裝 Github Mobile，在 Github 帳號下的 Setting 中的啟用雙重認證，下次登陸時須使用驗證碼&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T14:00:00+08:00</published><updated>2024-03-21T07:24:55+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;W2網誌&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;Github Classroom 指定分組倉儲&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;1.Github Classroom 指定分組倉儲&lt;/p&gt;
 &lt;p&gt;2.設定網誌&lt;/p&gt;
 &lt;p&gt;3.利用 Codespaces 維護倉儲與網站&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w0-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-21T07:21:24+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w0-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
