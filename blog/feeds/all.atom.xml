@@ -26,7 +26,7 @@ git clone --recurse-submodules 加上各組的倉儲 URL&lt;/p&gt;</content><cat
 &lt;h2&gt;2.將個人倉儲 import 至 Replit&lt;/h2&gt;
 &lt;p&gt;從 Replit 帳號下方的 Account, Connected Services(連線服務區) 點選 Connect 後, 讓 Github 授權 Replit, 將在 Replit 中的倉儲改版後, 有權限推回 Github&lt;/p&gt;
 &lt;h2&gt;3.設定 Github 帳號的雙重認證&lt;/h2&gt;
-&lt;p&gt;手機必須先安裝 Github Mobile，在 Github 帳號下的 Setting 中的啟用雙重認證，下次登陸時須使用驗證碼&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T14:00:00+08:00</published><updated>2024-03-21T08:08:50+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;手機必須先安裝 Github Mobile，在 Github 帳號下的 Setting 中的啟用雙重認證，下次登陸時須使用驗證碼&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T14:00:00+08:00</published><updated>2024-03-21T08:21:27+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -34,7 +34,7 @@ git clone --recurse-submodules 加上各組的倉儲 URL&lt;/p&gt;</content><cat
 &lt;h2&gt;1.Github Classroom 指定分組倉儲&lt;/h2&gt;
 &lt;p&gt;乙班期中分組作業名稱 2b，組長必須建立組別名稱為 midag1,midag2, midag3 依此類推 ....&lt;/p&gt;
 &lt;h2&gt;2.設定網誌&lt;/h2&gt;
-&lt;p&gt;進入Replit在左側的目錄找到markdown，點選Add file即可新增網誌，
+&lt;p&gt;進入Replit左側的目錄找到markdown，點選Add file新增網誌，
 完成後點選 Shell 輸入./gen_blog，再到 Git 上傳即可&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w0-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-21T07:21:24+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w0-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 

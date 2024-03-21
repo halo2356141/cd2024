@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123244協同產品設計 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-03-21T08:08:50+08:00</updated><entry><title>2024 Spring 課程W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T14:00:00+08:00</published><updated>2024-03-21T08:08:50+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123244協同產品設計 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-03-21T08:21:27+08:00</updated><entry><title>2024 Spring 課程W2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T14:00:00+08:00</published><updated>2024-03-21T08:21:27+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -7,5 +7,5 @@
 &lt;h2&gt;1.Github Classroom 指定分組倉儲&lt;/h2&gt;
 &lt;p&gt;乙班期中分組作業名稱 2b，組長必須建立組別名稱為 midag1,midag2, midag3 依此類推 ....&lt;/p&gt;
 &lt;h2&gt;2.設定網誌&lt;/h2&gt;
-&lt;p&gt;進入Replit在左側的目錄找到markdown，點選Add file即可新增網誌，
+&lt;p&gt;進入Replit左側的目錄找到markdown，點選Add file新增網誌，
 完成後點選 Shell 輸入./gen_blog，再到 Git 上傳即可&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry></feed>
