@@ -59,7 +59,7 @@
 <meta property="og:url" content="./2024-Spring-w3-blog-tutorial.html"/>
 <meta property="og:type" content="article"/>
 <meta property="article:published_time" content="2024-03-07 16:00:00+08:00"/>
-<meta property="article:modified_time" content="2024-03-21 07:15:14.339880+08:00"/>
+<meta property="article:modified_time" content="2024-03-21 08:03:39.975223+08:00"/>
 <meta property="article:author" content="./author/kmol.html">
 <meta property="article:section" content="w3"/>
 <meta property="article:tag" content="網誌編寫"/>
@@ -74,7 +74,7 @@
   "name": "2024 Spring 課程W3",
   "headline": "2024 Spring 課程W3",
   "datePublished": "2024-03-07 16:00:00+08:00",
-  "dateModified": "2024-03-21 07:15:14.339880+08:00",
+  "dateModified": "2024-03-21 08:03:39.975223+08:00",
   "author": {
     "@type": "Person",
     "name": "kmol",
@@ -234,8 +234,11 @@ init_mathjax();
                 <p>2024 Spring 網際內容管理與協同產品設計實習課程教學導引.</p>
 
 <h1>W3網誌</h1>
-<p>1.將組員的個人倉儲納入分組倉儲成為子模組</p>
-<p>2.在 Replit 維護分組倉儲</p>
+<h2>將組員的個人倉儲納入分組倉儲成為子模組</h2>
+<p>將各分組的組員個人網站, 以 submodule 的方式納入各分組倉儲與網站, 設定的指令為:
+git submodule add 組員的個人倉儲網址 組員的學號，
+一旦分組倉儲帶有以各組員學號作為子模組之後, git clone 倉儲必須使用:
+git clone --recurse-submodules 加上各組的倉儲 URL</p>
             </section>
 
             <section class="post-info">
